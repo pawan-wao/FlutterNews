@@ -35,7 +35,7 @@ Google Drive Link (Size: 20 MB):
 1. Clone the repository
 
 ```bash
-git clone https://github.com/pawan-wao/FlutFlix_YourMovieCompanion.git
+git https://github.com/pawan-wao/FlutterNews
 ```
 2. Clone the repository
 Launch Android Studio.\
