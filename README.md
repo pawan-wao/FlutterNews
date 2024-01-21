@@ -21,7 +21,6 @@ FlutterNews is a cutting-edge Flutter application developed using the NewsApi.or
 ![read2](https://github.com/pawan-wao/FlutterNews/assets/119276655/34085eb6-bf11-4927-b269-58d65e354355)
 
 
-
 ## 📥 Apps's video preview:
 Stay tuned for the app's video preview, coming soon!
 
